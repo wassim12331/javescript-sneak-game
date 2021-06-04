@@ -1,1 +1,1 @@
-# javescript-sneak-game
+# javescript-snake-game
